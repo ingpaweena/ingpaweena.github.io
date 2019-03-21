@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-If you'd like to collaborate or have any questions about my work, grad school, etc., I'm very responsive to <a href="mailto:ccoley@mit.edu">email</a>. 
+If you'd like to collaborate or have any questions about my work, grad school, faculty apps, etc., I'm very responsive to <a href="mailto:ccoley@mit.edu">email</a>. 
 
 Research Interests
 ======
