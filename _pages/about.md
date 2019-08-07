@@ -21,4 +21,4 @@ My future research will work toward a new paradigm of computational assistance f
 
 Other Interests
 ======
-In my spare time, I like to cook, garden, hike, and practice Portuguese.
+In my spare time, I like to cook, garden, and hike.
