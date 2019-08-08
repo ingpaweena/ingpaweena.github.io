@@ -13,7 +13,7 @@ I'm also experienced in managing people from my work at Mount Diablo Unified sch
 
 Interests
 ======
-I'm generally good food, cooking, and how to be healthy. 
+I'm generally interested in cooking with high quality food, eating well, and thinking about how to be healthy. 
 
 Other Interests
 ======
