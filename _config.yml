@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Paweena Ando"
 title_separator          : "-"
 name                     : &name "Paweena Ando"
-description              : &description "Academic website"
+description              : &description "Resume website"
 url                      : https://ingpaweena.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ingpaweena/ingpaweena.github.io"
@@ -48,14 +48,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "7bhzkedoCO8p_FQIUdvcomT4RzXWYpxlK1cDjmM7nr0"
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -71,21 +71,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-28798435-3"
+    tracking_id          : #"UA-28798435-3"
 
 
 # Site Author
 author:
   name             : "Paweena Ando"
-  avatar           : "resume_image.jpg"
+  avatar           : "resume_image.jp2"
   bio              : "Pick Captain @ Amazon Logistics"
   location         : "Walnut Creek, CA"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=l015S80AAAAJ&hl=en"
-  email            : "ccoley@mit.edu"
-  uri              :
+  googlescholar    : #"https://scholar.google.com/citations?user=l015S80AAAAJ&hl=en"
+  email            : "ingpaweena@gmail.com"
+  uri              : "http://ingpaweena.com"
   bitbucket        :
   codepen          :
   dribbble         :
