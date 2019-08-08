@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm very knowledeable about warehouse operations you'd like to collaborate or have any questions about my work, grad school, faculty apps, etc., I'm very responsive to <a href="mailto:ingpaweena@gmail.com">email</a>. 
+I'm looking to break into a positive and quality retail environment coming from a strong background in warehouse operations for logistics and last mile delivery.
+I'm also experienced in managing people from my work at Mount Diablo Unified school district and raising several children. If have any questions about my work or career plans, I'm very responsive to <a href="mailto:ingpaweena@gmail.com">email</a>. 
 
-Research Interests
+Interests
 ======
 I'm generally interested in questions of how data and automation can be used to streamline discovery in the chemical sciences. My PhD work is comprised of two parallel tracks: experimental and data-driven/computational. The former includes the actual construction, control, and use of automated microfluidic reactor platforms for screening and optimizing chemical reactions; the latter includes the development of a data-driven synthesis planning program and <em>in silico</em> strategies for predicting the outcomes of organic reactions. For this work, I've been named a <a href="http://news.mit.edu/2018/mit-graduate-student-connor-coley-named-darpa-riser-0716" target="_blank">DARPA Riser</a>, one of <a href="https://cen.acs.org/articles/96/i33/Connor-Coley.html" target="_blank">C&amp;EN's Talented 12</a>, and one of <a href="https://www.forbes.com/30-under-30/2019/healthcare/" target="_blank">Forbes 30 under 30: Healthcare</a>.<br> 
 
@@ -21,4 +22,4 @@ My future research will work toward a new paradigm of computational assistance f
 
 Other Interests
 ======
-In my spare time, I like to cook, garden, and hike.
+In my spare time, I like to cook, go camping, and lift heavy.

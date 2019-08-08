@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Connor W. Coley"
-  avatar           : "Headshot June 2018 square low quality.jpg"
-  bio              : "Chemical Engineering @ MIT"
-  location         : "Cambridge, MA"
+  name             : "Paweena Ando"
+  avatar           : "resume_image.jpg"
+  bio              : "Pick Captain @ Amazon Logistics"
+  location         : "Walnut Creek, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=l015S80AAAAJ&hl=en"
   email            : "ccoley@mit.edu"
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "connorcoley"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "connorcoley"
-  orcid            : "https://orcid.org/0000-0002-8271-8723"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "cwcoley"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
