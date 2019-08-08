@@ -16,6 +16,6 @@ Interests
 ======
 I'm generally interested in eating well, exploring different cooking styles, and thinking about how to be healthy. 
 
-Other Interests
+Hobbies
 ======
 In my spare time I like to go camping and lift heavy.
