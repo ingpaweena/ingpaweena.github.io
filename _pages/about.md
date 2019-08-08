@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I'm looking to break into a positive and dynamic retail environment coming from a strong background in warehouse operations for logistics and last mile delivery.
-I'm also experienced in managing people from my work at Mount Diablo Unified School District and raising several children. If have any questions about my work or career plans, I'm very responsive to <a href="mailto:ingpaweena@gmail.com">email</a>. 
+I'm also experienced in managing people from my work at Mount Diablo Unified School District and
+ raising several children. If you have any questions about my work or career plans, I'm very responsive to <a href="mailto:ingpaweena@gmail.com">email</a>. 
 
 Interests
 ======
